@@ -1,5 +1,5 @@
 
-v1.0 change log
+v1.0 change log**
 
 Mobs can now walk and ride on ships!
 Added Ship Projector block - shows a 3d blueprint of any ship on the clipboard!
